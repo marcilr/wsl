@@ -8,3 +8,15 @@ Windows Subsystem for Linux (WSL) related links
 
 Links
 =====
+How to Run Graphical Linux Desktop Applications from Windows 10’s Bash Shell
+CHRIS HOFFMAN  @chrisbhoffman
+UPDATED MARCH 1, 2018, 4:58PM EDT
+https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/
+
+Microsoft is bringing Linux GUI apps to Windows 10
+Linux on Windows 10 gets a big boost and GPU acceleration
+by Tom Warren@tomwarren  May 19, 2020, 11:09am EDT
+https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features
+
+WSL - Ubuntu Wiki
+https://wiki.ubuntu.com/WSL
