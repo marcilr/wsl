@@ -1,0 +1,14 @@
+links.txt
+Created Wednesday August 12, 2020
+by Raymond E. Marcil <remarcil@alaska.gov>
+
+
+WSL inastallation related links
+
+
+Links
+=====
+Windows Subsystem for Linux Installation Guide for Windows 10
+05/12/2020
+4 minutes to read
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
