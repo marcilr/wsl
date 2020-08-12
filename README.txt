@@ -7,3 +7,6 @@ Filelist
 ========
 links.txt
   Windows Subsystem for Linux (WSL) related links
+
+wsl.txt
+  Windows Subsystem for Linux (WSL)
