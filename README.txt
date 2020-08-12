@@ -5,6 +5,9 @@ by Raymond E. Marcil <remarcil@alaska.gov>
 
 Filelist
 ========
+00INSTALL/
+  Install wsl2
+
 links.txt
   Windows Subsystem for Linux (WSL) related links
 
